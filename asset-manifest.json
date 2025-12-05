@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hidden-Snake/static/css/main.e6c13ad2.css",
+    "main.js": "/Hidden-Snake/static/js/main.9595c5b1.js",
+    "static/js/488.da5c67cb.chunk.js": "/Hidden-Snake/static/js/488.da5c67cb.chunk.js",
+    "index.html": "/Hidden-Snake/index.html",
+    "main.e6c13ad2.css.map": "/Hidden-Snake/static/css/main.e6c13ad2.css.map",
+    "main.9595c5b1.js.map": "/Hidden-Snake/static/js/main.9595c5b1.js.map",
+    "488.da5c67cb.chunk.js.map": "/Hidden-Snake/static/js/488.da5c67cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9595c5b1.js"
+  ]
+}
